@@ -177,6 +177,5 @@ class Project2{
     int x = median.ithItem(ithSmallest, size, mSortArr);
     System.out.println("MOM Finds " + x);
 
-
   }
 }
